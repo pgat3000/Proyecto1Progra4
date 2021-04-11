@@ -1,1 +1,1 @@
-Primer proyecto de progra 4 para gente mamalona
+Primer proyecto de programación IV
