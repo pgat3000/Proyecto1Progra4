@@ -30,6 +30,7 @@ CREATE TABLE `clases` (
   `id` int NOT NULL,
   `tematica` varchar(50) NOT NULL ,
   `estado` tinyint,
+  `precio` double DEFAULT NULL,
   PRIMARY KEY (`id`)
 );
 
